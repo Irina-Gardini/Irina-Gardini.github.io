@@ -10,7 +10,7 @@
 ---
 
 ## Research Interests
-Macroeconomics • Time Series • Energy Econometrics • Inflation Dynamics • Commodity Markets  
+Energy Econometrics • Macroeconomics • Time Series • Commodity Markets  
 
 ---
 
