@@ -15,7 +15,7 @@ My PhD project explores how supply shocks in copper, nickel and cobalt markets p
 ---
 
 ## CV
-[Download CV (PDF)](assets/Irina_Gardini_CV.pdf)
+[Download CV (PDF)](/CV_Irina_Gardini.pdf)
 
 ---
 
