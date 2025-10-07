@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="profile.jpg" style="width:150px;border-radius:50%;margin-bottom:10px">
+  <img src="profile.png" style="width:150px;border-radius:50%;margin-bottom:10px">
 </p>
 
 
