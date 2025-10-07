@@ -1,17 +1,16 @@
 # Irina Gardini  
-**PhD Candidate in Economics and Statistics, University of Milano-Bicocca**  
+**PhD Candidate in Economics and Statistics, University of Milan-Bicocca joint courses with Catholic University of Milan**  
 **Junior Researcher, Fondazione Eni Enrico Mattei (FEEM)**  
 
 ---
 
-## Research Focus
-Macroeconomics • Energy transition • Commodities • Inflation dynamics
-My PhD project, *Fueling Inflation: The Role of Critical Minerals in the U.S. Energy Transition*, explores how supply shocks in copper, nickel and cobalt markets propagate through prices, inventories and macroeconomic variables using Large BSVARX models.
-
+## Research interests:
+Macroeconomics • Time Series • Energy Econometrics • Inflation dynamics • Commodities Market 
 ---
 
-## Work
-**Fueling Inflation: The Role of Critical Minerals in the U.S. Energy Transition**  
+## Current research:
+**Fueling Inflation: The Role of Critical Minerals in the U.S. Energy Transition** 
+My PhD project explores how supply shocks in copper, nickel and cobalt markets propagate through prices, inventories and macroeconomic variables using Large BSVARX models.
 
 ---
 
@@ -21,4 +20,6 @@ My PhD project, *Fueling Inflation: The Role of Critical Minerals in the U.S. En
 ---
 
 ## Contact
-📧 irinagardini@email • [LinkedIn](https://www.linkedin.com/in/irinagardini) • [GitHub](https://github.com/Irina-Gardini)
+📧 irinagardini@email  
+📧 irina.gardini@feem.it
+LinkedIn: https://www.linkedin.com/in/irinagardini
