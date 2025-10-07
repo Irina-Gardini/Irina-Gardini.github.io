@@ -30,5 +30,5 @@ Energy Econometrics • Macroeconomics • Time Series • Commodity Markets
 📧 irinagardini@gmail.com 
 📧 irina.gardini@feem.it  
 🔗 [LinkedIn](https://www.linkedin.com/in/irinagardini)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--2252--3297-brightgreen?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-2252-3297)
+[ORCID](https://orcid.org/0009-0001-2252-3297)
 
