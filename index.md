@@ -15,7 +15,7 @@ Macroeconomics • Time Series • Energy Econometrics • Inflation Dynamics �
 ---
 
 ## Current Research
-- **Fueling Inflation: The Role of Critical Minerals in the U.S. Energy Transition** 
+📄 **Fueling Inflation: The Role of Critical Minerals in the U.S. Energy Transition** 
 
   My PhD project explores how supply shocks in copper, nickel and cobalt markets propagate through prices, inventories, and    macroeconomic variables using large BSVAR models.
 
