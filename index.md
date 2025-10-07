@@ -1,6 +1,11 @@
 
-- **PhD Candidate in Economics and Statistics, University of Milan–Bicocca (joint program with the Catholic University of Milan)**  
-- **Junior Researcher, Fondazione Eni Enrico Mattei (FEEM)**  
+<p align="center">
+  <img src="profile.jpg" style="width:150px;border-radius:50%;margin-bottom:10px">
+</p>
+
+
+📘 **PhD Candidate in Economics and Statistics, University of Milan–Bicocca (joint program with the Catholic University of Milan)**  
+🏛️ **Junior Researcher, Fondazione Eni Enrico Mattei (FEEM)**  
 
 ---
 
