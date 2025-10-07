@@ -1,4 +1,4 @@
-# Irina Gardini  
+
 **PhD Candidate in Economics and Statistics, University of Milan-Bicocca joint courses with Catholic University of Milan**  
 **Junior Researcher, Fondazione Eni Enrico Mattei (FEEM)**  
 
