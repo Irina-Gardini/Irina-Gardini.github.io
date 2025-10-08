@@ -29,7 +29,7 @@ Energy Econometrics • Macroeconomics • Time Series • Commodity Markets
 ## Contact  
 📧 Email: irinagardini@gmail.com<br>
 📧 Email: irina.gardini@feem.it<br>
-🔗 <a href="https://www.linkedin.com/in/irinagardini" target="_blank">
+<a href="https://www.linkedin.com/in/irinagardini" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
        alt="LinkedIn" width="16" style="vertical-align:middle; margin-right:4px;">
   linkedin.com/in/irinagardini
