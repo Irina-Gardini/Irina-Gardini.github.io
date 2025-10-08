@@ -14,7 +14,7 @@ Energy Econometrics • Macroeconomics • Time Series • Commodity Markets
 
 ---
 
-## Current Research
+## Current Projects
 📄 **Fueling Inflation: The Role of Critical Minerals in the U.S. Energy Transition**, joint with Matteo Manera and Daniele Valenti
 
   My PhD project explores how supply shocks in copper, nickel and cobalt markets propagate through prices, inventories, and    macroeconomic variables using large BSVAR models.
